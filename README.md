@@ -22,4 +22,4 @@
 
 |Développement                     |Langages |Technique de programmation                           |
 |----------------------------------|:-------:|----------------------------------------------------:|
-|Consultation d'une Base de Donnée |C#,MySql |Programmation procédural script en mysql             |
+|Consultation d'une Base de Donnée |C#,MySql |Programmation procédural et orienté objet, script en mysql             |
