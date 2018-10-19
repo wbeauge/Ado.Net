@@ -14,7 +14,7 @@
 
 |Développement                     |Langages |Technique de programmation                           |
 |----------------------------------|:-------:|----------------------------------------------------:|
-|Consultation d'une Base de Donnée |C#,MySql |Programmation procédural procédures stockées en mysql|
+|Consultation d'une Base de Donnée |C#,MySql |Programmation procédural script en mysql             |
 
 # Consultation de Base d'une Donnée
 >Le but est de réaliser un programme C# qui permet de Consulter une base de donnée grace a MySql.
