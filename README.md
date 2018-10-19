@@ -6,9 +6,17 @@
 
 
 **Les outils mis en oeuvre :**
-* git.
-* visual studio.
-* mysql.
+* git / MarkDown.
+* visual studio :
+  >Classes,
+  
+  >Méthodes,
+  
+  >Constructeur,
+  
+  >Utilisation de dll (MySql.Data).
+* mysql :
+  >select.
 
 #**Le dévoppement tourne autour de la consultation d'une Base de Donnée:**
 
